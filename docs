@@ -1,0 +1,10 @@
+npm init -y : pour creer un fichier package.json
+
+npm install -D tailwindcss
+npx tailwindcss init  // pour creer ou initialiser tailwindcss
+
+suivre le docs de tailwindcss après
+
+npm run watch : pour creer un fichier output.css
+
+install pligins : live server et tailwindIntellisence
